@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\bin\Debug\ejemplo2.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\bin\Debug\ejemplo2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\bin\Debug\ejemplo2.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.frmCesar.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia2\ejemplo2\ejemplo2\obj\Debug\ejemplo2.pdb

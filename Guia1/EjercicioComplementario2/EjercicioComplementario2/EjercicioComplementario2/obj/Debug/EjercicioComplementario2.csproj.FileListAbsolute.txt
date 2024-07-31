@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\bin\Debug\EjercicioComplementario2.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\bin\Debug\EjercicioComplementario2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\bin\Debug\EjercicioComplementario2.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia1\EjercicioComplementario2\EjercicioComplementario2\EjercicioComplementario2\obj\Debug\EjercicioComplementario2.pdb

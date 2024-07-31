@@ -1,0 +1,10 @@
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\bin\Debug\Ejemplo3_Guia3.exe.config
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\bin\Debug\Ejemplo3_Guia3.exe
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\bin\Debug\Ejemplo3_Guia3.pdb
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.csproj.AssemblyReference.cache
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.Form1.resources
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.Properties.Resources.resources
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.csproj.GenerateResource.cache
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.csproj.CoreCompileInputs.cache
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.exe
+D:\Guias-DSP\Guia3\Ejemplos\Ejemplo3_Guia3\obj\Debug\Ejemplo3_Guia3.pdb
